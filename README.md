@@ -1,7 +1,7 @@
 # Smart Budget Assistant using Machine Learning
 
 ## Introduction
-This project, "Smart Budget Assistant," addresses the crucial issue of personal financial management in today's dynamic economic landscape.The system is designed to provide personalized financial guidance to individuals, helping them optimize their budgets and improve their financial literacy, leading to greater financial stability and an improved quality of life.
+This project, "Smart Budget Assistant," addresses the crucial issue of personal financial management specifically tailored for students in today's dynamic economic landscape. The system is designed to provide personalized financial guidance, helping them optimize their budgets and improve their financial literacy, which is essential for their academic journey and future financial stability, leading to an improved quality of student life.
 
 ## Features
 - **Budget Optimization:** The system leverages decision tree algorithms to tailor financial advice based on individual circumstances, including income, expenses, and financial goals.
@@ -22,7 +22,12 @@ This project, "Smart Budget Assistant," addresses the crucial issue of personal 
    streamlit run smart_budget_assistant.py
    ```
 5. The web application will open in your default web browser. Input your name, salary, and rent details when prompted.
-6. Click on the "Calculate Expenses" button to receive personalized budget recommendations. 
+6. Click on the "Calculate Expenses" button to receive personalized budget recommendations.
+
+## Sample Output
+
+![image](https://github.com/Sathyapriya-sb/Smart-Budget-Assistant/assets/165268362/c136e22b-c209-4e34-b744-18d0659542d9)
+
 
 ## Contributors
 - [Sathyapriya](https://github.com/sathyapriya-sb)
