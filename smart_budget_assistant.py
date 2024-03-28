@@ -7,7 +7,7 @@ import streamlit as st
 file_path = "Datasheet.csv"
 data = pd.read_csv(file_path)
 
-st.title("Smart Budget Assistant")
+st.title("Smart Budget Assistant for Students")
 
 # Initialize predicted_expenses
 predicted_expenses = None
