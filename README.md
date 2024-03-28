@@ -10,43 +10,19 @@ This project, "Smart Budget Assistant," addresses the crucial issue of personal 
 - **Resource Allocation:** Users can optimize resource allocation, maximize savings, and make sound investment decisions based on the system's guidance
 - **User-Friendly Interface**: An intuitive interface makes it easy to input data, visualize spending, and access insights.
 
-## Installation
-To install and run the Smart Budget Assistant locally, follow these steps:
-1. Clone the repository to your local machine.
-   ```
-   https://github.com/Sathyapriya-sb/Smart-Budget-Assistant.git
-   ```
-2. Navigate to the project directory.
-   ```
-   cd smart-budget-assistant
-   ```
-3. Install the required dependencies.
-   ```
-   pip install -r requirements.txt
-   ```
-4. Run the application.
-   ```
-   python app.py
-   ```
-5. Access the application through your web browser at `http://localhost:5000`.
-
 ## Usage
-1. Navigate to the project directory:
-   ```bash
-   cd Smart-Budget-Assistant
+1. Clone the repository to your local machine.
+2. Install the required dependencies listed in `requirements.txt` (you can install them using: pip install -r requirements.txt).
+3. Navigate to the project directory using the terminal:
+      ```bash
+   cd path/to/project/directory
    ```
-2. Run the main script:
-   ```bash
-   python app.py
+4. Run the Streamlit web application using the following command:
+      ```bash
+   streamlit run smart_budget_assistant.py
    ```
-3. Follow the prompts to enter your information (name, salary, etc.).
-4. Receive personalized budget recommendations based on machine learning predictions.
-
-1. Sign up for an account or log in if you already have one.
-2. Link your bank accounts or manually input your transactions.
-3. Set budget goals for different spending categories.
-4. Explore insights and recommendations provided by the Smart Budget Assistant.
-5. Adjust your budget and spending habits based on the insights gained.
+5. The web application will open in your default web browser. Input your name, salary, and rent details when prompted.
+6. Click on the "Calculate Expenses" button to receive personalized budget recommendations. 
 
 ## Contributors
 - [Sathyapriya](https://github.com/sathyapriya-sb)
