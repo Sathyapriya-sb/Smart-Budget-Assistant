@@ -4,7 +4,7 @@ from sklearn.tree import DecisionTreeRegressor
 import streamlit as st
 
 # Load the data from the CSV file
-file_path = r"C:\Users\Sathyapriya subbiah\Documents\MINOR PROJECT\BO_new\Datasheet.csv"
+file_path = r"Datasheet.csv"
 data = pd.read_csv(file_path)
 
 st.title("Smart Budget Assistant for Students")
