@@ -15,7 +15,7 @@ predicted_expenses = None
 # Ask for user's information
 name = st.text_input("Enter your name: ")
 
-salary = st.number_input("Enter your salary:")
+salary = st.number_input("Enter your income:")
 rent = st.number_input("Enter your rent:")
 utilities = st.number_input("Enter you utilities: ")
 
