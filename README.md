@@ -38,7 +38,7 @@ This project, "Smart Budget Assistant," addresses the crucial issue of personal 
 Contributions to the Smart Budget Assistant project are welcome! If you have any ideas for new features, bug fixes, or improvements, feel free to open an issue or submit a pull request. Please adhere to the project's coding standards and follow the contribution guidelines.
 
 ## License
-This project is licensed under the [Apache 2.0 License](LICENSE).
+This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 For any inquiries or feedback, please contact [subbiah.sathyapriya@gmail.com](mailto:subbiah.sathyapriya@gmail.com), [agneldavidraj@gmail.com](mailto:agneldavidraj@gmail.com), [tarunsham07@gmail.com](mailto:tarunsham07@gmail.com).
